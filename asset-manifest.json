@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tboytosin.github.io/static/css/main.f9a78103.css",
+    "main.js": "/tboytosin.github.io/static/js/main.dcd932d8.js",
+    "index.html": "/tboytosin.github.io/index.html",
+    "main.f9a78103.css.map": "/tboytosin.github.io/static/css/main.f9a78103.css.map",
+    "main.dcd932d8.js.map": "/tboytosin.github.io/static/js/main.dcd932d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a78103.css",
+    "static/js/main.dcd932d8.js"
+  ]
+}
